@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class AppRoleDTO {
+public class AppRolesDTO {
     private int id;
     @NotNull(message = "le nom ne doit pas etre null")
     private String nom;

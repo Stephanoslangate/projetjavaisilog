@@ -1,4 +1,4 @@
-package com.groupeisi.exception;
+package com.groupeuisi.ParcInfo.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

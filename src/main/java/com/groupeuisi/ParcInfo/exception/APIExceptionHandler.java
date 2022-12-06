@@ -1,4 +1,4 @@
-package com.groupeisi.exception;
+package com.groupeuisi.ParcInfo.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
